@@ -1636,3 +1636,9 @@ footer p.sucess-message {
 .subscribe-form .btn{
   width: 100%;
 }
+
+/* .slider-image:after, .step-content-image:after {
+  height: 143%;
+  left: 50%;
+  transform: translateX(-50%);
+} */

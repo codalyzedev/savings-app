@@ -115,7 +115,8 @@
          margin: 0 auto;
     }
      .step-content-image:after{
-         left: 27px;
+        left: 50%;
+        transform: translateX(-50%);
     }
      .slider-image:after, .step-content-image:after{
          background-image: url(../images/device-mobile.png);
@@ -315,5 +316,9 @@
 @media only screen and (max-width: 575px) {
     .banner-row {
         padding-bottom: 175px;
+    }
+
+    #features-app {
+        padding-bottom: 115px;
     }
 }
