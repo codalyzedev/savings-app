@@ -115,7 +115,7 @@
          margin: 0 auto;
     }
      .step-content-image:after{
-         left: 17px;
+         left: 27px;
     }
      .slider-image:after, .step-content-image:after{
          background-image: url(../images/device-mobile.png);
