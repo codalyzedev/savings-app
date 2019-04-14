@@ -756,7 +756,7 @@ Hero
   content:'';
   position: absolute;
   left: -35px;
-  top: -35px;
+  top: -50px;
   background-image: url('../images/device.png');
   background-position: 100%, 100%;
   background-size: cover;
